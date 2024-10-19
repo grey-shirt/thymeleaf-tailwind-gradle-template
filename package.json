@@ -1,6 +1,6 @@
 {
   "name": "demo",
-  "packageManager": "npm@9.6.7",
+  "packageManager": "npm@9.9.3",
   "devDependencies" : {
     "@babel/cli" : "^7.23.0",
     "autoprefixer" : "^10.4.16",
