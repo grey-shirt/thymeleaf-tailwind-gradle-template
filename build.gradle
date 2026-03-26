@@ -21,7 +21,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web'
     implementation 'nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:4.0.1'
     implementation 'org.webjars:webjars-locator:0.52'
-    implementation 'org.springframework.boot:spring-boot-gradle-plugin:4.0.4'
+    implementation 'org.springframework.boot:spring-boot-gradle-plugin:4.0.5'
     implementation 'org.webjars.npm:alpinejs:3.15.8'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
