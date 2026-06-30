@@ -2,7 +2,7 @@
   "name": "demo",
   "packageManager": "npm@11.18.0",
   "devDependencies": {
-    "@babel/cli": "^7.23.0",
+    "@babel/cli": "^8.0.0",
     "@tailwindcss/postcss": "^4.2.1",
     "browser-sync": "^3.0.0",
     "cssnano": "^7.0.0",
