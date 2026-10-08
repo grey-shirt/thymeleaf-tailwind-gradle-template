@@ -1,6 +1,6 @@
 {
   "name": "demo",
-  "packageManager": "npm@11.21.0",
+  "packageManager": "npm@12.2.0",
   "devDependencies": {
     "@babel/cli": "^7.23.0",
     "@tailwindcss/postcss": "^4.2.1",
